@@ -1,0 +1,67 @@
+group_id: [96,195]
+
+Description: (C2 x S4) : C2
+
+   Subgroups                  rho
+  1                          1
+  C2                         2
+  C2                         1
+  C2                         1
+  C2                         1
+  C2                         1
+  C2                         1
+  C3                         1
+  C2 x C2                    2
+  C2 x C2                    1
+  C4                         1
+  C4                         1
+  C4                         1
+  C2 x C2                    1
+  C2 x C2                    5/4
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C6                         1
+  C6                         1
+  S3                         1
+  D4                         1
+  C4 x C2                    1
+  C2 x C2 x C2               1
+  C2 x C2 x C2               2
+  C4 x C2                    1
+  D4                         1
+  C2 x C2 x C2               1
+  D4                         1
+  C2 x C2 x C2               1
+  D4                         1
+  C2 x C2 x C2               1
+  D4                         1
+  D4                         1
+  C2 x C2 x C2               1
+  C4 x C2                    1
+  C6 x C2                    1
+  D6                         1
+  C3 : C4                    1
+  A4                         1
+  (C4 x C2) : C2             1
+  C2 x D4                    1
+  C2 x C2 x C2 x C2          1
+  (C4 x C2) : C2             1
+  C2 x D4                    1
+  C2 x D4                    1
+  (C4 x C2) : C2             1
+  C2 x A4                    1
+  (C6 x C2) : C2             1
+  C2 x A4                    1
+  S4                         1
+  (C2 x C2 x C2 x C2) : C2   1
+  C2 x C2 x A4               1
+  C2 x S4                    1
+  A4 : C4                    1
+  (C2 x S4) : C2             1

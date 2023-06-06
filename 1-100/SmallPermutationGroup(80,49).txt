@@ -1,0 +1,22 @@
+group_id: [80,49]
+
+Description: (C2 x C2 x C2 x C2) : C5
+
+   Subgroups                  rho
+  1                          1
+  C2                         1
+  C2                         1
+  C2                         1
+  C2 x C2                    5/4
+  C2 x C2                    5/4
+  C2 x C2                    5/4
+  C2 x C2                    4
+  C2 x C2                    5/4
+  C2 x C2                    5/4
+  C2 x C2                    5/4
+  C5                         1
+  C2 x C2 x C2               2
+  C2 x C2 x C2               2
+  C2 x C2 x C2               2
+  C2 x C2 x C2 x C2          1
+  (C2 x C2 x C2 x C2) : C5   1

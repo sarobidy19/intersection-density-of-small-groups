@@ -1,0 +1,25 @@
+group_id: [84,8]
+
+Description: S3 x D7
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C3          1
+  C2 x C2     1
+  C6          1
+  S3          1
+  S3          1
+  C7          1
+  D6          1
+  D7          1
+  C14         1
+  D7          1
+  C21         1
+  D14         1
+  C3 x D7     1
+  C7 x S3     1
+  D21         1
+  S3 x D7     1

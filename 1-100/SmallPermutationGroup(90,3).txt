@@ -1,0 +1,17 @@
+group_id: [90,3]
+
+Description: D45
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C5          1
+  S3          1
+  C9          1
+  D5          1
+  C15         1
+  D9          1
+  D15         1
+  C45         1
+  D45         1

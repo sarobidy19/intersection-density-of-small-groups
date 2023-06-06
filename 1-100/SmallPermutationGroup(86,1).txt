@@ -1,0 +1,9 @@
+group_id: [86,1]
+
+Description: D43
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C43         1
+  D43         1

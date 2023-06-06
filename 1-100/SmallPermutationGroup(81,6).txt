@@ -1,0 +1,17 @@
+group_id: [81,6]
+
+Description: C27 : C3
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C3          1
+  C9          1
+  C3 x C3     1
+  C9          1
+  C9          1
+  C9 x C3     1
+  C27         1
+  C27         1
+  C27         1
+  C27 : C3    1

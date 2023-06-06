@@ -1,0 +1,9 @@
+group_id: [69,1]
+
+Description: C69
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C23         1
+  C69         1

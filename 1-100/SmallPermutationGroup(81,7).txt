@@ -1,0 +1,25 @@
+group_id: [81,7]
+
+Description: (C3 x C3 x C3) : C3
+
+   Subgroups             rho
+  1                     1
+  C3                    1
+  C3                    1
+  C3                    1
+  C3                    1
+  C3                    1
+  C3                    1
+  C3 x C3               1
+  C3 x C3               1
+  C3 x C3               1
+  C3 x C3               1
+  C3 x C3               1
+  C3 x C3               1
+  C9                    1
+  C9                    1
+  C3 x C3 x C3          1
+  (C3 x C3) : C3        1
+  C9 : C3               1
+  C9 : C3               1
+  (C3 x C3 x C3) : C3   1

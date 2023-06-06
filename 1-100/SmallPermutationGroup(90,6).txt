@@ -1,0 +1,23 @@
+group_id: [90,6]
+
+Description: C15 x S3
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C3          1
+  C3          1
+  C5          1
+  S3          1
+  C6          1
+  C3 x C3     1
+  C10         1
+  C15         1
+  C15         1
+  C15         1
+  C3 x S3     1
+  C30         1
+  C5 x S3     1
+  C15 x C3    1
+  C15 x S3    1

@@ -1,0 +1,97 @@
+group_id: [128,25]
+
+Description: (C2 x C2) . ((C4 x C2) : C4) = (C4 x C2) . (C4 x C4)
+
+   Subgroups                                              rho
+  1                                                      1
+  C2                                                     1
+  C2                                                     1
+  C2                                                     1
+  C2                                                     1
+  C2                                                     1
+  C2                                                     1
+  C2                                                     1
+  C2 x C2                                                1
+  C2 x C2                                                1
+  C2 x C2                                                1
+  C4                                                     1
+  C4                                                     1
+  C2 x C2                                                1
+  C2 x C2                                                1
+  C2 x C2                                                1
+  C2 x C2                                                1
+  C2 x C2                                                1
+  C4                                                     1
+  C2 x C2                                                1
+  C2 x C2                                                1
+  C2 x C2                                                1
+  C4                                                     1
+  C2 x C2                                                1
+  C2 x C2                                                1
+  C4                                                     1
+  C2 x C2                                                1
+  C2 x C2                                                1
+  C8                                                     1
+  C8                                                     1
+  C8                                                     1
+  C2 x C2 x C2                                           1
+  C4 x C2                                                1
+  C4 x C2                                                1
+  C4 x C2                                                1
+  C4 x C2                                                1
+  C4 x C2                                                1
+  C4 x C2                                                1
+  C2 x C2 x C2                                           1
+  C2 x C2 x C2                                           1
+  C4 x C2                                                1
+  C8                                                     1
+  C2 x C2 x C2                                           1
+  C2 x C2 x C2                                           1
+  C4 x C2                                                1
+  C4 x C2                                                1
+  C4 x C2                                                1
+  C4 x C2                                                1
+  C4 x C2                                                1
+  C2 x C2 x C2                                           1
+  C8                                                     1
+  C8                                                     1
+  C4 x C2                                                1
+  C2 x C2 x C2                                           1
+  C8 x C2                                                1
+  C8 : C2                                                1
+  C8 : C2                                                1
+  C4 x C2 x C2                                           1
+  C4 x C2 x C2                                           1
+  C4 x C2 x C2                                           1
+  C4 x C2 x C2                                           1
+  C2 x C2 x C2 x C2                                      1
+  C8 : C2                                                1
+  C8 : C2                                                1
+  C4 x C2 x C2                                           1
+  C4 x C2 x C2                                           1
+  C8 x C2                                                1
+  C8 x C2                                                1
+  C8 x C2                                                1
+  C8 x C2                                                1
+  C4 x C2 x C2                                           1
+  C4 x C2 x C2                                           1
+  C8 x C2                                                1
+  C8 x C2                                                1
+  C8 x C2                                                1
+  (C8 x C2) : C2                                         1
+  (C8 x C2) : C2                                         1
+  (C8 x C2) : C2                                         1
+  (C8 x C2) : C2                                         1
+  C4 x C2 x C2 x C2                                      1
+  (C8 x C2) : C2                                         1
+  C8 x C2 x C2                                           1
+  C8 x C2 x C2                                           1
+  C2 x (C8 : C2)                                         1
+  (C8 x C2) : C2                                         1
+  C2 x (C8 : C2)                                         1
+  (C8 x C2) : C2                                         1
+  (C8 x C2) : C2                                         1
+  ((C8 x C2) : C2) : C2                                  1
+  C2 x ((C8 x C2) : C2)                                  1
+  (C2 x (C8 : C2)) : C2                                  1
+  (C2 x C2) . ((C4 x C2) : C4) = (C4 x C2) . (C4 x C4)   1

@@ -1,0 +1,9 @@
+group_id: [74,1]
+
+Description: D37
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C37         1
+  D37         1

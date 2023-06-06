@@ -1,0 +1,9 @@
+group_id: [94,1]
+
+Description: D47
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C47         1
+  D47         1

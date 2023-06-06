@@ -1,0 +1,9 @@
+group_id: [93,1]
+
+Description: C31 : C3
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C31         1
+  C31 : C3    1

@@ -1,0 +1,15 @@
+group_id: [76,3]
+
+Description: D38
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C19         1
+  C38         1
+  D19         1
+  D19         1
+  D38         1

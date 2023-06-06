@@ -1,0 +1,15 @@
+group_id: [84,10]
+
+Description: C7 x A4
+
+   Subgroups   rho
+  1           1
+  C2          2
+  C3          1
+  C2 x C2     1
+  C7          1
+  A4          1
+  C14         2
+  C21         1
+  C14 x C2    1
+  C7 x A4     1

@@ -1,0 +1,15 @@
+group_id: [68,4]
+
+Description: D34
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C17         1
+  C34         1
+  D17         1
+  D17         1
+  D34         1

@@ -1,0 +1,9 @@
+group_id: [94,2]
+
+Description: C94
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C47         1
+  C94         1

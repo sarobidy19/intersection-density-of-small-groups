@@ -1,0 +1,15 @@
+group_id: [72,39]
+
+Description: (C3 x C3) : C8
+
+   Subgroups        rho
+  1                1
+  C2               1
+  C3               3
+  C4               1
+  S3               3
+  C8               1
+  C3 x C3          1
+  (C3 x C3) : C2   1
+  (C3 x C3) : C4   1
+  (C3 x C3) : C8   1

@@ -1,0 +1,13 @@
+group_id: [70,1]
+
+Description: C7 x D5
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C5          1
+  C7          1
+  D5          1
+  C14         1
+  C35         1
+  C7 x D5     1

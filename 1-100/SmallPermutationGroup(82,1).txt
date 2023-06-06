@@ -1,0 +1,9 @@
+group_id: [82,1]
+
+Description: D41
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C41         1
+  D41         1

@@ -1,0 +1,13 @@
+group_id: [66,2]
+
+Description: C3 x D11
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C6          1
+  C11         1
+  D11         1
+  C33         1
+  C3 x D11    1

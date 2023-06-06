@@ -1,0 +1,9 @@
+group_id: [74,2]
+
+Description: C74
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C37         1
+  C74         1
