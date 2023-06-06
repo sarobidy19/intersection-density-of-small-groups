@@ -1,0 +1,69 @@
+group_id: [125,5]
+
+Description: C5 x C5 x C5
+
+   Subgroups      rho
+  1              1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5             1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5        1
+  C5 x C5 x C5   1

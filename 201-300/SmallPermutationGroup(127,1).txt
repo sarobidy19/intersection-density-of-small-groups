@@ -1,0 +1,7 @@
+group_id: [127,1]
+
+Description: C127
+
+   Subgroups   rho
+  1           1
+  C127        1

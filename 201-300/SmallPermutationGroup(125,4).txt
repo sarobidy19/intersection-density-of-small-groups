@@ -1,0 +1,15 @@
+group_id: [125,4]
+
+Description: C25 : C5
+
+   Subgroups   rho
+  1           1
+  C5          1
+  C5          1
+  C5 x C5     1
+  C25         1
+  C25         1
+  C25         1
+  C25         1
+  C25         1
+  C25 : C5    1

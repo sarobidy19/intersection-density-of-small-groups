@@ -1,0 +1,17 @@
+group_id: [126,6]
+
+Description: C126
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C6          1
+  C7          1
+  C9          1
+  C14         1
+  C18         1
+  C21         1
+  C42         1
+  C63         1
+  C126        1

@@ -1,0 +1,29 @@
+group_id: [126,15]
+
+Description: (C3 x C3) : D7
+
+   Subgroups        rho
+  1                1
+  C2               1
+  C3               1
+  C3               1
+  C3               1
+  C3               1
+  S3               1
+  S3               1
+  S3               1
+  S3               1
+  C7               1
+  C3 x C3          1
+  D7               1
+  (C3 x C3) : C2   1
+  C21              1
+  C21              1
+  C21              1
+  C21              1
+  D21              1
+  D21              1
+  D21              1
+  D21              1
+  C21 x C3         1
+  (C3 x C3) : D7   1
