@@ -1,0 +1,9 @@
+group_id: [125,1]
+
+Description: C125
+
+   Subgroups   rho
+  1           1
+  C5          1
+  C25         1
+  C125        1

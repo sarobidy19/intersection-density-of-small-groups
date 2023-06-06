@@ -1,0 +1,69 @@
+group_id: [120,47]
+
+Description: C30 x C2 x C2
+
+   Subgroups       rho
+  1               1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C3              1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C5              1
+  C6              1
+  C6              1
+  C6              1
+  C6              1
+  C6              1
+  C6              1
+  C6              1
+  C2 x C2 x C2    1
+  C10             1
+  C10             1
+  C10             1
+  C10             1
+  C10             1
+  C10             1
+  C10             1
+  C6 x C2         1
+  C6 x C2         1
+  C6 x C2         1
+  C6 x C2         1
+  C6 x C2         1
+  C6 x C2         1
+  C6 x C2         1
+  C15             1
+  C10 x C2        1
+  C10 x C2        1
+  C10 x C2        1
+  C10 x C2        1
+  C10 x C2        1
+  C10 x C2        1
+  C10 x C2        1
+  C6 x C2 x C2    1
+  C30             1
+  C30             1
+  C30             1
+  C30             1
+  C30             1
+  C30             1
+  C30             1
+  C10 x C2 x C2   1
+  C30 x C2        1
+  C30 x C2        1
+  C30 x C2        1
+  C30 x C2        1
+  C30 x C2        1
+  C30 x C2        1
+  C30 x C2        1
+  C30 x C2 x C2   1

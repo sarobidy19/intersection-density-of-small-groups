@@ -1,0 +1,15 @@
+group_id: [124,3]
+
+Description: D62
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C31         1
+  C62         1
+  D31         1
+  D31         1
+  D62         1

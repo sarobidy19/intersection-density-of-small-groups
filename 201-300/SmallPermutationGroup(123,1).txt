@@ -1,0 +1,9 @@
+group_id: [123,1]
+
+Description: C123
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C41         1
+  C123        1

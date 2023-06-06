@@ -1,0 +1,8 @@
+group_id: [121,1]
+
+Description: C121
+
+   Subgroups   rho
+  1           1
+  C11         1
+  C121        1

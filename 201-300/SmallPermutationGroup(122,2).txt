@@ -1,0 +1,9 @@
+group_id: [122,2]
+
+Description: C122
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C61         1
+  C122        1

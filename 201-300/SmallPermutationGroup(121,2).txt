@@ -1,0 +1,19 @@
+group_id: [121,2]
+
+Description: C11 x C11
+
+   Subgroups   rho
+  1           1
+  C11         1
+  C11         1
+  C11         1
+  C11         1
+  C11         1
+  C11         1
+  C11         1
+  C11         1
+  C11         1
+  C11         1
+  C11         1
+  C11         1
+  C11 x C11   1
