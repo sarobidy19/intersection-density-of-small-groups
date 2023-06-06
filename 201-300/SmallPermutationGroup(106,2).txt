@@ -1,0 +1,9 @@
+group_id: [106,2]
+
+Description: C106
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C53         1
+  C106        1

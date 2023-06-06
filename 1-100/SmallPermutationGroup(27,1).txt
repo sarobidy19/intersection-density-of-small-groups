@@ -1,0 +1,9 @@
+group_id: [27,1]
+
+Description: C27
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C9          1
+  C27         1

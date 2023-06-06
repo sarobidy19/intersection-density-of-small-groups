@@ -1,0 +1,11 @@
+group_id: [18,2]
+
+Description: C18
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C6          1
+  C9          1
+  C18         1

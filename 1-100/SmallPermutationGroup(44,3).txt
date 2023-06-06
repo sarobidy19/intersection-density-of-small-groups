@@ -1,0 +1,15 @@
+group_id: [44,3]
+
+Description: D22
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C11         1
+  C22         1
+  D11         1
+  D11         1
+  D22         1

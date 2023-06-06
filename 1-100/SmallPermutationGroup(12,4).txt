@@ -1,0 +1,15 @@
+group_id: [12,4]
+
+Description: D6
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C3          1
+  C2 x C2     1
+  C6          1
+  S3          1
+  S3          1
+  D6          1

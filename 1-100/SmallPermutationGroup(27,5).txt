@@ -1,0 +1,33 @@
+group_id: [27,5]
+
+Description: C3 x C3 x C3
+
+   Subgroups      rho
+  1              1
+  C3             1
+  C3             1
+  C3             1
+  C3             1
+  C3             1
+  C3             1
+  C3             1
+  C3             1
+  C3             1
+  C3             1
+  C3             1
+  C3             1
+  C3             1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3        1
+  C3 x C3 x C3   1

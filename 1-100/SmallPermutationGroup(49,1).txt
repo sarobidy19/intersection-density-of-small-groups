@@ -1,0 +1,8 @@
+group_id: [49,1]
+
+Description: C49
+
+   Subgroups   rho
+  1           1
+  C7          1
+  C49         1

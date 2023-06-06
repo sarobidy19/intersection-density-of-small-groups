@@ -1,0 +1,9 @@
+group_id: [46,1]
+
+Description: D23
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C23         1
+  D23         1

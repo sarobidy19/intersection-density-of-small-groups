@@ -1,0 +1,39 @@
+group_id: [32,35]
+
+Description: C4 : Q8
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C4          1
+  C4          1
+  C4          1
+  C4          1
+  C4          1
+  C4          1
+  C4          1
+  C4          1
+  C4          1
+  C4          1
+  Q8          1
+  C4 x C2     1
+  Q8          1
+  C4 x C2     1
+  C4 x C2     1
+  Q8          1
+  C4 x C2     1
+  Q8          1
+  C4 x C2     1
+  C4 x C2     1
+  C4 x C2     1
+  C4 : C4     1
+  C2 x Q8     1
+  C4 x C4     1
+  C4 : C4     1
+  C4 : C4     1
+  C2 x Q8     1
+  C4 : C4     1
+  C4 : Q8     1

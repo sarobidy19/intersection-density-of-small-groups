@@ -1,0 +1,9 @@
+group_id: [58,2]
+
+Description: C58
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C29         1
+  C58         1

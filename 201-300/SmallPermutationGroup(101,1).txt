@@ -1,0 +1,7 @@
+group_id: [101,1]
+
+Description: C101
+
+   Subgroups   rho
+  1           1
+  C101        1

@@ -1,0 +1,7 @@
+group_id: [19,1]
+
+Description: C19
+
+   Subgroups   rho
+  1           1
+  C19         1

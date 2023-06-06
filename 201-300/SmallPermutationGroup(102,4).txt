@@ -1,0 +1,13 @@
+group_id: [102,4]
+
+Description: C102
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C6          1
+  C17         1
+  C34         1
+  C51         1
+  C102        1

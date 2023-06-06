@@ -1,0 +1,18 @@
+group_id: [32,19]
+
+Description: QD32
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C4          1
+  C4          1
+  C2 x C2     1
+  Q8          1
+  C8          1
+  D4          1
+  Q16         1
+  D8          1
+  C16         1
+  QD32        1

@@ -1,0 +1,13 @@
+group_id: [105,2]
+
+Description: C105
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C5          1
+  C7          1
+  C15         1
+  C21         1
+  C35         1
+  C105        1

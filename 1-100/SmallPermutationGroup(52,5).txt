@@ -1,0 +1,15 @@
+group_id: [52,5]
+
+Description: C26 x C2
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C13         1
+  C26         1
+  C26         1
+  C26         1
+  C26 x C2    1

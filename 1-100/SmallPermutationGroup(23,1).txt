@@ -1,0 +1,7 @@
+group_id: [23,1]
+
+Description: C23
+
+   Subgroups   rho
+  1           1
+  C23         1

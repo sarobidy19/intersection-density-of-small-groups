@@ -1,0 +1,37 @@
+group_id: [40,14]
+
+Description: C10 x C2 x C2
+
+   Subgroups       rho
+  1               1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C5              1
+  C2 x C2 x C2    1
+  C10             1
+  C10             1
+  C10             1
+  C10             1
+  C10             1
+  C10             1
+  C10             1
+  C10 x C2        1
+  C10 x C2        1
+  C10 x C2        1
+  C10 x C2        1
+  C10 x C2        1
+  C10 x C2        1
+  C10 x C2        1
+  C10 x C2 x C2   1

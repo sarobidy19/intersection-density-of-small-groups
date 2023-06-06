@@ -1,0 +1,9 @@
+group_id: [57,2]
+
+Description: C57
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C19         1
+  C57         1

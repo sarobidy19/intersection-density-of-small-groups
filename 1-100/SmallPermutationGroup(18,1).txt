@@ -1,0 +1,11 @@
+group_id: [18,1]
+
+Description: D9
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  S3          1
+  C9          1
+  D9          1

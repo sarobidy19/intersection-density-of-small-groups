@@ -1,0 +1,13 @@
+group_id: [102,1]
+
+Description: C17 x S3
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  S3          1
+  C17         1
+  C34         1
+  C51         1
+  C17 x S3    1

@@ -1,0 +1,9 @@
+group_id: [26,1]
+
+Description: D13
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C13         1
+  D13         1

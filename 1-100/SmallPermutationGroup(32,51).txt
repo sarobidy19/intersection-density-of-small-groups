@@ -1,0 +1,379 @@
+group_id: [32,51]
+
+Description: C2 x C2 x C2 x C2 x C2
+
+   Subgroups                rho
+  1                        1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2                       1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2                  1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2             1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2        1
+  C2 x C2 x C2 x C2 x C2   1

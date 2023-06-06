@@ -1,0 +1,9 @@
+group_id: [6,1]
+
+Description: S3
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  S3          1

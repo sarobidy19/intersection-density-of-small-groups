@@ -1,0 +1,9 @@
+group_id: [62,1]
+
+Description: D31
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C31         1
+  D31         1

@@ -1,0 +1,13 @@
+group_id: [114,6]
+
+Description: C114
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C6          1
+  C19         1
+  C38         1
+  C57         1
+  C114        1

@@ -1,0 +1,12 @@
+group_id: [24,3]
+
+Description: SL(2,3)
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C4          2
+  C6          1
+  Q8          1
+  SL(2,3)     1

@@ -1,0 +1,114 @@
+group_id: [64,62]
+
+Description: ((C4 x C2) : C4) : C2
+
+   Subgroups               rho
+  1                       1
+  C2                      1
+  C2                      1
+  C2                      1
+  C2                      1
+  C2                      1
+  C2                      1
+  C2                      1
+  C2                      1
+  C2                      1
+  C2                      1
+  C2                      1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C4                      1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C4                      1
+  C4                      1
+  C4                      1
+  C4                      1
+  C4                      1
+  C4                      1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C2 x C2                 1
+  C4                      1
+  C4 x C2                 1
+  C2 x C2 x C2            1
+  C4 x C2                 1
+  C2 x C2 x C2            1
+  C2 x C2 x C2            1
+  C4 x C2                 1
+  C2 x C2 x C2            1
+  C4 x C2                 1
+  C4 x C2                 1
+  C2 x C2 x C2            1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C2 x C2 x C2            1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C2 x C2 x C2            1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C2 x C2 x C2            1
+  C2 x C2 x C2            1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C2 x C2 x C2            1
+  C2 x C2 x C2            1
+  C4 x C2                 1
+  C4 x C2 x C2            1
+  C4 x C2 x C2            1
+  (C4 x C2) : C2          1
+  (C4 x C2) : C2          1
+  C2 x C2 x C2 x C2       1
+  C4 x C2 x C2            1
+  C4 x C2 x C2            1
+  (C4 x C2) : C2          1
+  (C4 x C2) : C2          1
+  C4 x C2 x C2            1
+  C4 x C2 x C2            1
+  C4 x C2 x C2            1
+  C4 x C2 x C2            1
+  C4 x C2 x C2            1
+  C4 x C2 x C2            1
+  C4 x C2 x C2            1
+  C4 x C2 x C2            1
+  C4 x C2 x C2            1
+  C4 x C2 x C2            1
+  C4 x C2 x C2 x C2       1
+  (C4 x C2) : C4          1
+  (C4 x C2) : C4          1
+  C2 x ((C4 x C2) : C2)   1
+  (C4 x C2) : C4          1
+  (C4 x C2) : C4          1
+  C2 x ((C4 x C2) : C2)   1
+  ((C4 x C2) : C4) : C2   1

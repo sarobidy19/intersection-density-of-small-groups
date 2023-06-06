@@ -1,0 +1,15 @@
+group_id: [48,3]
+
+Description: (C4 x C4) : C3
+
+   Subgroups        rho
+  1                1
+  C2               2
+  C3               1
+  C2 x C2          1
+  C4               1
+  C4               1
+  C4 x C2          2
+  A4               1
+  C4 x C4          1
+  (C4 x C4) : C3   1

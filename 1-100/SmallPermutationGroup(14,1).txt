@@ -1,0 +1,9 @@
+group_id: [14,1]
+
+Description: D7
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C7          1
+  D7          1

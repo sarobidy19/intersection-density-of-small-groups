@@ -1,0 +1,9 @@
+group_id: [34,1]
+
+Description: D17
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C17         1
+  D17         1

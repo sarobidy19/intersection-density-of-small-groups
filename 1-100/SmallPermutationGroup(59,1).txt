@@ -1,0 +1,7 @@
+group_id: [59,1]
+
+Description: C59
+
+   Subgroups   rho
+  1           1
+  C59         1

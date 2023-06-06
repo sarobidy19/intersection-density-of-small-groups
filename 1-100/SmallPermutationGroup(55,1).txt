@@ -1,0 +1,9 @@
+group_id: [55,1]
+
+Description: C11 : C5
+
+   Subgroups   rho
+  1           1
+  C5          1
+  C11         1
+  C11 : C5    1

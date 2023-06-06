@@ -1,0 +1,7 @@
+group_id: [2,1]
+
+Description: C2
+
+   Subgroups   rho
+  1           1
+  C2          1

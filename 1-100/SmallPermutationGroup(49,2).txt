@@ -1,0 +1,15 @@
+group_id: [49,2]
+
+Description: C7 x C7
+
+   Subgroups   rho
+  1           1
+  C7          1
+  C7          1
+  C7          1
+  C7          1
+  C7          1
+  C7          1
+  C7          1
+  C7          1
+  C7 x C7     1

@@ -1,0 +1,9 @@
+group_id: [21,1]
+
+Description: C7 : C3
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C7          1
+  C7 : C3     1

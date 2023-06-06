@@ -1,0 +1,7 @@
+group_id: [13,1]
+
+Description: C13
+
+   Subgroups   rho
+  1           1
+  C13         1

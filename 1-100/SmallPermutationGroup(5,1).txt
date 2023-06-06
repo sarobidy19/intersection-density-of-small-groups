@@ -1,0 +1,7 @@
+group_id: [5,1]
+
+Description: C5
+
+   Subgroups   rho
+  1           1
+  C5          1

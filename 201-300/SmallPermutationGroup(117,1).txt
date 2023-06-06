@@ -1,0 +1,11 @@
+group_id: [117,1]
+
+Description: C13 : C9
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C9          1
+  C13         1
+  C39         1
+  C13 : C9    1

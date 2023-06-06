@@ -1,0 +1,21 @@
+group_id: [8,5]
+
+Description: C2 x C2 x C2
+
+   Subgroups      rho
+  1              1
+  C2             1
+  C2             1
+  C2             1
+  C2             1
+  C2             1
+  C2             1
+  C2             1
+  C2 x C2        1
+  C2 x C2        1
+  C2 x C2        1
+  C2 x C2        1
+  C2 x C2        1
+  C2 x C2        1
+  C2 x C2        1
+  C2 x C2 x C2   1
