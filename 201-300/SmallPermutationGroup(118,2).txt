@@ -1,0 +1,9 @@
+group_id: [118,2]
+
+Description: C118
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C59         1
+  C118        1
