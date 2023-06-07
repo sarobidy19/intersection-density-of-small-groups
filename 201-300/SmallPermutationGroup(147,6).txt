@@ -1,0 +1,25 @@
+group_id: [147,6]
+
+Description: C21 x C7
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C7          1
+  C7          1
+  C7          1
+  C7          1
+  C7          1
+  C7          1
+  C7          1
+  C7          1
+  C21         1
+  C21         1
+  C21         1
+  C21         1
+  C21         1
+  C21         1
+  C21         1
+  C21         1
+  C7 x C7     1
+  C21 x C7    1

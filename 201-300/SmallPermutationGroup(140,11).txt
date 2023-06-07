@@ -1,0 +1,25 @@
+group_id: [140,11]
+
+Description: C70 x C2
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C5          1
+  C7          1
+  C10         1
+  C10         1
+  C10         1
+  C14         1
+  C14         1
+  C14         1
+  C10 x C2    1
+  C14 x C2    1
+  C35         1
+  C70         1
+  C70         1
+  C70         1
+  C70 x C2    1

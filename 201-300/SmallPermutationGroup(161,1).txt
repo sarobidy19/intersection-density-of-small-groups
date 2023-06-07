@@ -1,0 +1,9 @@
+group_id: [161,1]
+
+Description: C161
+
+   Subgroups   rho
+  1           1
+  C7          1
+  C23         1
+  C161        1

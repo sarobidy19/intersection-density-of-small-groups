@@ -1,0 +1,13 @@
+group_id: [130,4]
+
+Description: C130
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C5          1
+  C10         1
+  C13         1
+  C26         1
+  C65         1
+  C130        1

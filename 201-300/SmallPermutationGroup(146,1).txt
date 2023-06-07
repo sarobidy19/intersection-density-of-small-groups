@@ -1,0 +1,9 @@
+group_id: [146,1]
+
+Description: D73
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C73         1
+  D73         1

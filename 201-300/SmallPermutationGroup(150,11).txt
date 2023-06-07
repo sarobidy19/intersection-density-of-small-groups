@@ -1,0 +1,25 @@
+group_id: [150,11]
+
+Description: C5 x D15
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C5          1
+  C5          1
+  C5          1
+  C5          1
+  S3          1
+  D5          1
+  C10         1
+  C15         1
+  C15         1
+  C15         1
+  C15         1
+  C5 x C5     1
+  D15         1
+  C5 x S3     1
+  C5 x D5     1
+  C15 x C5    1
+  C5 x D15    1

@@ -1,0 +1,25 @@
+group_id: [156,18]
+
+Description: C78 x C2
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C3          1
+  C2 x C2     1
+  C6          1
+  C6          1
+  C6          1
+  C6 x C2     1
+  C13         1
+  C26         1
+  C26         1
+  C26         1
+  C39         1
+  C26 x C2    1
+  C78         1
+  C78         1
+  C78         1
+  C78 x C2    1

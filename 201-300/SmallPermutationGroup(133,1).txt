@@ -1,0 +1,9 @@
+group_id: [133,1]
+
+Description: C133
+
+   Subgroups   rho
+  1           1
+  C7          1
+  C19         1
+  C133        1

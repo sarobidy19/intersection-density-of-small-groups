@@ -1,0 +1,15 @@
+group_id: [148,5]
+
+Description: C74 x C2
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C37         1
+  C74         1
+  C74         1
+  C74         1
+  C74 x C2    1

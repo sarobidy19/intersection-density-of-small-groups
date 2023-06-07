@@ -1,0 +1,9 @@
+group_id: [145,1]
+
+Description: C145
+
+   Subgroups   rho
+  1           1
+  C5          1
+  C29         1
+  C145        1

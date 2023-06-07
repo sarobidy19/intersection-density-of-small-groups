@@ -1,0 +1,7 @@
+group_id: [149,1]
+
+Description: C149
+
+   Subgroups   rho
+  1           1
+  C149        1

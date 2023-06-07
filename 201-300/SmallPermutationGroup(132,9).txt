@@ -1,0 +1,25 @@
+group_id: [132,9]
+
+Description: D66
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C3          1
+  C2 x C2     1
+  C6          1
+  S3          1
+  S3          1
+  C11         1
+  D6          1
+  C22         1
+  D11         1
+  D11         1
+  C33         1
+  D22         1
+  C66         1
+  D33         1
+  D33         1
+  D66         1

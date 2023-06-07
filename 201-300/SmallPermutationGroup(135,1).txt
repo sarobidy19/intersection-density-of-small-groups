@@ -1,0 +1,13 @@
+group_id: [135,1]
+
+Description: C135
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C5          1
+  C9          1
+  C15         1
+  C27         1
+  C45         1
+  C135        1

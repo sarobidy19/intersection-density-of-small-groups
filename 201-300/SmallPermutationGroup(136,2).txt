@@ -1,0 +1,13 @@
+group_id: [136,2]
+
+Description: C136
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C4          1
+  C8          1
+  C17         1
+  C34         1
+  C68         1
+  C136        1

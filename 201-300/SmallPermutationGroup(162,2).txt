@@ -1,0 +1,15 @@
+group_id: [162,2]
+
+Description: C162
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C6          1
+  C9          1
+  C18         1
+  C27         1
+  C54         1
+  C81         1
+  C162        1

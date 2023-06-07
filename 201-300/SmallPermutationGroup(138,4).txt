@@ -1,0 +1,13 @@
+group_id: [138,4]
+
+Description: C138
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C6          1
+  C23         1
+  C46         1
+  C69         1
+  C138        1

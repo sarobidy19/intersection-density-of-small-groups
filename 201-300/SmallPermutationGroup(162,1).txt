@@ -1,0 +1,15 @@
+group_id: [162,1]
+
+Description: D81
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  S3          1
+  C9          1
+  D9          1
+  C27         1
+  D27         1
+  C81         1
+  D81         1

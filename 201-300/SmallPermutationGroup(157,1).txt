@@ -1,0 +1,7 @@
+group_id: [157,1]
+
+Description: C157
+
+   Subgroups   rho
+  1           1
+  C157        1

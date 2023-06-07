@@ -1,0 +1,13 @@
+group_id: [138,3]
+
+Description: D69
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  S3          1
+  C23         1
+  D23         1
+  C69         1
+  D69         1

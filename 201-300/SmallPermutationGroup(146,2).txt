@@ -1,0 +1,9 @@
+group_id: [146,2]
+
+Description: C146
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C73         1
+  C146        1

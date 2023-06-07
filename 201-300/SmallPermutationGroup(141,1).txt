@@ -1,0 +1,9 @@
+group_id: [141,1]
+
+Description: C141
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C47         1
+  C141        1

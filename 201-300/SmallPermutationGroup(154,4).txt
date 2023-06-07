@@ -1,0 +1,13 @@
+group_id: [154,4]
+
+Description: C154
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C7          1
+  C11         1
+  C14         1
+  C22         1
+  C77         1
+  C154        1

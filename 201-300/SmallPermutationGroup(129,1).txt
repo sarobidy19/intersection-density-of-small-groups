@@ -1,0 +1,9 @@
+group_id: [129,1]
+
+Description: C43 : C3
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C43         1
+  C43 : C3    1

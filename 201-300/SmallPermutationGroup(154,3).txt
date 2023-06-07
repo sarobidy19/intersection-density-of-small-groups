@@ -1,0 +1,13 @@
+group_id: [154,3]
+
+Description: D77
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C7          1
+  C11         1
+  D7          1
+  D11         1
+  C77         1
+  D77         1

@@ -1,0 +1,9 @@
+group_id: [158,2]
+
+Description: C158
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C79         1
+  C158        1

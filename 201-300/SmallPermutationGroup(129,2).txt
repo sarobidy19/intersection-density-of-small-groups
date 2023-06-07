@@ -1,0 +1,9 @@
+group_id: [129,2]
+
+Description: C129
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C43         1
+  C129        1

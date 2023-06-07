@@ -1,0 +1,25 @@
+group_id: [140,8]
+
+Description: C10 x D7
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C5          1
+  C7          1
+  C10         1
+  C10         1
+  C10         1
+  D7          1
+  C14         1
+  D7          1
+  C10 x C2    1
+  D14         1
+  C35         1
+  C5 x D7     1
+  C70         1
+  C5 x D7     1
+  C10 x D7    1

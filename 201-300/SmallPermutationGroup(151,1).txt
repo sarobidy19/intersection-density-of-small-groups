@@ -1,0 +1,7 @@
+group_id: [151,1]
+
+Description: C151
+
+   Subgroups   rho
+  1           1
+  C151        1

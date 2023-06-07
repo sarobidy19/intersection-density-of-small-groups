@@ -1,0 +1,15 @@
+group_id: [132,6]
+
+Description: C11 x A4
+
+   Subgroups   rho
+  1           1
+  C2          2
+  C3          1
+  C2 x C2     1
+  C11         1
+  A4          1
+  C22         2
+  C33         1
+  C22 x C2    1
+  C11 x A4    1

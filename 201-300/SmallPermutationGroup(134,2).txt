@@ -1,0 +1,9 @@
+group_id: [134,2]
+
+Description: C134
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C67         1
+  C134        1

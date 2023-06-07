@@ -1,0 +1,9 @@
+group_id: [142,2]
+
+Description: C142
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C71         1
+  C142        1

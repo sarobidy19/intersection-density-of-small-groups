@@ -1,0 +1,37 @@
+group_id: [150,9]
+
+Description: C3 x ((C5 x C5) : C2)
+
+   Subgroups               rho
+  1                       1
+  C2                      1
+  C3                      1
+  C5                      1
+  C5                      1
+  C5                      1
+  C5                      1
+  C5                      1
+  C5                      1
+  C6                      1
+  D5                      1
+  D5                      1
+  D5                      1
+  D5                      1
+  D5                      1
+  D5                      1
+  C15                     1
+  C15                     1
+  C15                     1
+  C15                     1
+  C15                     1
+  C15                     1
+  C5 x C5                 1
+  C3 x D5                 1
+  C3 x D5                 1
+  C3 x D5                 1
+  C3 x D5                 1
+  C3 x D5                 1
+  C3 x D5                 1
+  (C5 x C5) : C2          1
+  C15 x C5                1
+  C3 x ((C5 x C5) : C2)   1
