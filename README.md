@@ -2,7 +2,7 @@
 
 Let $G$ be a group and $H\leq G$ be a subgroup. We say that $\mathcal{F} \subset G$ is $H$-*intersecting* if for any $g,h \in \mathcal{F}$, there exists a coset $xH \in G/H$ such that $x^{-1}(g^{-1}h) x \in H$. The *intersection density of the action of $G$ on the left cosets of $H$ by left multiplication* is the rational number $$\rho(G,H) = { \frac{|\mathcal{F}|}{|H|} : \mathcal{F} \mbox{ is $H$-intersecting} }.$$ The *intersection spectrum of $G$* is the set
 
-$$ \sigma(G) ={ \rho(G,H): H\leq G }.$$  
+$$ \sigma(G) =\\{ \rho(G,H): H\leq G \\}.$$  
 
 ## Aim
 
