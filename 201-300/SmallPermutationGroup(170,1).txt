@@ -1,0 +1,13 @@
+group_id: [170,1]
+
+Description: C17 x D5
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C5          1
+  D5          1
+  C17         1
+  C34         1
+  C85         1
+  C17 x D5    1

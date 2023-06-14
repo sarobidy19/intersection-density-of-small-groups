@@ -1,0 +1,17 @@
+group_id: [171,4]
+
+Description: C3 x (C19 : C3)
+
+   Subgroups         rho
+  1                 1
+  C3                1
+  C3                1
+  C3                1
+  C3                1
+  C3 x C3           1
+  C19               1
+  C57               1
+  C19 : C3          1
+  C19 : C3          1
+  C19 : C3          1
+  C3 x (C19 : C3)   1

@@ -1,0 +1,29 @@
+group_id: [198,8]
+
+Description: C11 x ((C3 x C3) : C2)
+
+   Subgroups                rho
+  1                        1
+  C2                       1
+  C3                       1
+  C3                       1
+  C3                       1
+  C3                       1
+  S3                       1
+  S3                       1
+  S3                       1
+  S3                       1
+  C3 x C3                  1
+  C11                      1
+  (C3 x C3) : C2           1
+  C22                      1
+  C33                      1
+  C33                      1
+  C33                      1
+  C33                      1
+  C11 x S3                 1
+  C11 x S3                 1
+  C11 x S3                 1
+  C11 x S3                 1
+  C33 x C3                 1
+  C11 x ((C3 x C3) : C2)   1

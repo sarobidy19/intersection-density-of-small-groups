@@ -1,0 +1,15 @@
+group_id: [164,4]
+
+Description: D82
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C41         1
+  C82         1
+  D41         1
+  D41         1
+  D82         1

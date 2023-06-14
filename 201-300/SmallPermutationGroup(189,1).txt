@@ -1,0 +1,13 @@
+group_id: [189,1]
+
+Description: C7 : C27
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C7          1
+  C9          1
+  C21         1
+  C27         1
+  C63         1
+  C7 : C27    1

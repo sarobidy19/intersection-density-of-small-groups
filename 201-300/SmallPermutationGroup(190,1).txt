@@ -1,0 +1,13 @@
+group_id: [190,1]
+
+Description: C19 x D5
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C5          1
+  D5          1
+  C19         1
+  C38         1
+  C95         1
+  C19 x D5    1

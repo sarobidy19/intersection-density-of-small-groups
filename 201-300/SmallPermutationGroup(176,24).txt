@@ -1,0 +1,27 @@
+group_id: [176,24]
+
+Description: C11 x D8
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C4          1
+  C2 x C2     1
+  D4          1
+  D4          1
+  C8          1
+  C11         1
+  D8          1
+  C22         1
+  C22         1
+  C22         1
+  C22 x C2    1
+  C22 x C2    1
+  C44         1
+  C11 x D4    1
+  C88         1
+  C11 x D4    1
+  C11 x D8    1

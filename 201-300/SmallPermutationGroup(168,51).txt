@@ -1,0 +1,69 @@
+group_id: [168,51]
+
+Description: C2 x C2 x C2 x (C7 : C3)
+
+   Subgroups                  rho
+  1                          1
+  C2                         1
+  C2                         1
+  C2                         1
+  C2                         1
+  C2                         1
+  C2                         1
+  C2                         1
+  C3                         1
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C2 x C2                    1
+  C6                         1
+  C6                         1
+  C6                         1
+  C6                         1
+  C6                         1
+  C6                         1
+  C6                         1
+  C7                         1
+  C2 x C2 x C2               1
+  C6 x C2                    1
+  C6 x C2                    1
+  C6 x C2                    1
+  C6 x C2                    1
+  C6 x C2                    1
+  C6 x C2                    1
+  C6 x C2                    1
+  C14                        1
+  C14                        1
+  C14                        1
+  C14                        1
+  C14                        1
+  C14                        1
+  C14                        1
+  C7 : C3                    1
+  C6 x C2 x C2               1
+  C14 x C2                   1
+  C14 x C2                   1
+  C14 x C2                   1
+  C14 x C2                   1
+  C14 x C2                   1
+  C14 x C2                   1
+  C14 x C2                   1
+  C2 x (C7 : C3)             1
+  C2 x (C7 : C3)             1
+  C2 x (C7 : C3)             1
+  C2 x (C7 : C3)             1
+  C2 x (C7 : C3)             1
+  C2 x (C7 : C3)             1
+  C2 x (C7 : C3)             1
+  C14 x C2 x C2              1
+  C2 x C2 x (C7 : C3)        1
+  C2 x C2 x (C7 : C3)        1
+  C2 x C2 x (C7 : C3)        1
+  C2 x C2 x (C7 : C3)        1
+  C2 x C2 x (C7 : C3)        1
+  C2 x C2 x (C7 : C3)        1
+  C2 x C2 x (C7 : C3)        1
+  C2 x C2 x C2 x (C7 : C3)   1

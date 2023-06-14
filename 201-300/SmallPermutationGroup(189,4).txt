@@ -1,0 +1,21 @@
+group_id: [189,4]
+
+Description: C7 : (C9 : C3)
+
+   Subgroups        rho
+  1                1
+  C3               1
+  C3               1
+  C7               1
+  C3 x C3          1
+  C9               1
+  C9               1
+  C9               1
+  C7 : C3          1
+  C21              1
+  C9 : C3          1
+  C3 x (C7 : C3)   1
+  C63              1
+  C7 : C9          1
+  C7 : C9          1
+  C7 : (C9 : C3)   1

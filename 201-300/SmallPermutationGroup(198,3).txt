@@ -1,0 +1,17 @@
+group_id: [198,3]
+
+Description: D99
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  S3          1
+  C9          1
+  C11         1
+  D9          1
+  D11         1
+  C33         1
+  D33         1
+  C99         1
+  D99         1

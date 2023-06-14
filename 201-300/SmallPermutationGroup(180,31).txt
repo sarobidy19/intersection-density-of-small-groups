@@ -1,0 +1,33 @@
+group_id: [180,31]
+
+Description: C15 x A4
+
+   Subgroups   rho
+  1           1
+  C2          2
+  C3          1
+  C3          1
+  C3          1
+  C3          1
+  C2 x C2     1
+  C5          1
+  C6          2
+  C3 x C3     1
+  C10         2
+  A4          1
+  A4          1
+  C6 x C2     1
+  A4          1
+  C15         1
+  C15         1
+  C15         1
+  C15         1
+  C10 x C2    1
+  C30         2
+  C3 x A4     1
+  C15 x C3    1
+  C5 x A4     1
+  C30 x C2    1
+  C5 x A4     1
+  C5 x A4     1
+  C15 x A4    1

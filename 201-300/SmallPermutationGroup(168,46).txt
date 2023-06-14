@@ -1,0 +1,27 @@
+group_id: [168,46]
+
+Description: C7 : S4
+
+   Subgroups         rho
+  1                 1
+  C2                2
+  C2                1
+  C3                1
+  C2 x C2           1
+  C2 x C2           1
+  C4                1
+  S3                1
+  C7                1
+  D4                1
+  A4                1
+  C14               2
+  D7                1
+  C21               1
+  S4                1
+  C14 x C2          1
+  D14               1
+  C7 : C4           1
+  D21               1
+  (C14 x C2) : C2   1
+  C7 x A4           1
+  C7 : S4           1

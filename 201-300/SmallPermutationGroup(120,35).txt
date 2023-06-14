@@ -13,8 +13,8 @@ Description: C2 x A5
   C2 x C2        1
   C5             1
   C6             4/3
-  S3             1
   S3             2
+  S3             1
   C2 x C2 x C2   1
   C10            1
   D5             1

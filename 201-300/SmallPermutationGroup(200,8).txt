@@ -1,0 +1,29 @@
+group_id: [200,8]
+
+Description: C25 : D4
+
+   Subgroups         rho
+  1                 1
+  C2                1
+  C2                1
+  C2                1
+  C2 x C2           1
+  C2 x C2           1
+  C4                1
+  C5                1
+  D4                1
+  D5                1
+  C10               1
+  C10               1
+  D10               1
+  C10 x C2          1
+  C5 : C4           1
+  C25               1
+  (C10 x C2) : C2   1
+  D25               1
+  C50               1
+  C50               1
+  D50               1
+  C50 x C2          1
+  C25 : C4          1
+  C25 : D4          1
