@@ -10,11 +10,11 @@ Description: ((C4 x C4) : C2) : C3
   C3                      1
   C2 x C2                 2
   C2 x C2                 1
-  C2 x C2                 5/4
+  C2 x C2                 2
   C4                      1
-  C2 x C2                 5/4
+  C2 x C2                 2
   C4                      1
-  C2 x C2                 5/4
+  C2 x C2                 2
   C6                      1
   C2 x C2 x C2            1
   D4                      1

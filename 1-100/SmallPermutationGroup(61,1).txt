@@ -1,7 +1,0 @@
-group_id: [61,1]
-
-Description: C61
-
-   Subgroups   rho
-  1           1
-  C61         1

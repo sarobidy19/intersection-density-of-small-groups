@@ -16,7 +16,7 @@ Description: D4 x A4
   C4                  1
   C2 x C2             1
   C2 x C2             1
-  C2 x C2             5/4
+  C2 x C2             2
   C2 x C2             1
   C2 x C2             2
   C2 x C2             1
@@ -24,7 +24,7 @@ Description: D4 x A4
   C2 x C2             1
   C4                  1
   C2 x C2             1
-  C2 x C2             5/4
+  C2 x C2             2
   C2 x C2             1
   C2 x C2             1
   C2 x C2             1

@@ -1,9 +1,0 @@
-group_id: [65,1]
-
-Description: C65
-
-   Subgroups   rho
-  1           1
-  C5          1
-  C13         1
-  C65         1

@@ -1,7 +1,0 @@
-group_id: [17,1]
-
-Description: C17
-
-   Subgroups   rho
-  1           1
-  C17         1

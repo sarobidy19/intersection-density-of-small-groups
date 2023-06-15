@@ -1,7 +1,0 @@
-group_id: [3,1]
-
-Description: C3
-
-   Subgroups   rho
-  1           1
-  C3          1

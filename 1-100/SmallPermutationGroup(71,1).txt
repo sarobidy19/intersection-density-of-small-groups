@@ -1,7 +1,0 @@
-group_id: [71,1]
-
-Description: C71
-
-   Subgroups   rho
-  1           1
-  C71         1

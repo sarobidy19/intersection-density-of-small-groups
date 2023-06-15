@@ -1,9 +1,0 @@
-group_id: [35,1]
-
-Description: C35
-
-   Subgroups   rho
-  1           1
-  C5          1
-  C7          1
-  C35         1

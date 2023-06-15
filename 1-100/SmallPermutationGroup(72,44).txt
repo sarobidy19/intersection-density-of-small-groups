@@ -10,7 +10,7 @@ Description: A4 x S3
   C3             1
   C3             1
   C3             1
-  C2 x C2        5/4
+  C2 x C2        2
   C2 x C2        1
   C2 x C2        1
   S3             1

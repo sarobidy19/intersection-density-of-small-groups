@@ -1,7 +1,0 @@
-group_id: [7,1]
-
-Description: C7
-
-   Subgroups   rho
-  1           1
-  C7          1

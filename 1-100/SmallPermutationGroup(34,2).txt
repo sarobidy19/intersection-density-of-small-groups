@@ -1,9 +1,0 @@
-group_id: [34,2]
-
-Description: C34
-
-   Subgroups   rho
-  1           1
-  C2          1
-  C17         1
-  C34         1

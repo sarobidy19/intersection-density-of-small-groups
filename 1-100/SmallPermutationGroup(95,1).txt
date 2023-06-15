@@ -1,9 +1,0 @@
-group_id: [95,1]
-
-Description: C95
-
-   Subgroups   rho
-  1           1
-  C5          1
-  C19         1
-  C95         1

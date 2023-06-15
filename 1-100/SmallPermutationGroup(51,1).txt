@@ -1,9 +1,0 @@
-group_id: [51,1]
-
-Description: C51
-
-   Subgroups   rho
-  1           1
-  C3          1
-  C17         1
-  C51         1

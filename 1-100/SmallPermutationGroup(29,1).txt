@@ -1,7 +1,0 @@
-group_id: [29,1]
-
-Description: C29
-
-   Subgroups   rho
-  1           1
-  C29         1

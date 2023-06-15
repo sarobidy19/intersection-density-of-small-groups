@@ -1,9 +1,0 @@
-group_id: [22,2]
-
-Description: C22
-
-   Subgroups   rho
-  1           1
-  C2          1
-  C11         1
-  C22         1

@@ -1,9 +1,0 @@
-group_id: [77,1]
-
-Description: C77
-
-   Subgroups   rho
-  1           1
-  C7          1
-  C11         1
-  C77         1

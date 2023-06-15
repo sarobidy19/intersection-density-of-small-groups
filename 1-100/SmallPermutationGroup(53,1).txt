@@ -1,7 +1,0 @@
-group_id: [53,1]
-
-Description: C53
-
-   Subgroups   rho
-  1           1
-  C53         1

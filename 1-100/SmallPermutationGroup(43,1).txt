@@ -1,7 +1,0 @@
-group_id: [43,1]
-
-Description: C43
-
-   Subgroups   rho
-  1           1
-  C43         1
