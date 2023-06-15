@@ -1,0 +1,17 @@
+group_id: [104,11]
+
+Description: C13 x Q8
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C4          1
+  C4          1
+  C4          1
+  Q8          1
+  C13         1
+  C26         1
+  C52         1
+  C52         1
+  C52         1
+  C13 x Q8    1

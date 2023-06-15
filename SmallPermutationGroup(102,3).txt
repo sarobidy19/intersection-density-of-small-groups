@@ -1,0 +1,13 @@
+group_id: [102,3]
+
+Description: D51
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  S3          1
+  C17         1
+  D17         1
+  C51         1
+  D51         1

@@ -1,0 +1,27 @@
+group_id: [108,21]
+
+Description: (C2 x C2) : (C9 : C3)
+
+   Subgroups               rho
+  1                       1
+  C2                      2
+  C3                      1
+  C3                      1
+  C2 x C2                 1
+  C6                      2
+  C6                      1
+  C6                      1
+  C6                      1
+  C3 x C3                 1
+  C9                      1
+  C9                      1
+  C9                      1
+  C6 x C2                 1
+  C6 x C2                 1
+  C6 x C3                 2
+  C9 : C3                 1
+  C6 x C6                 1
+  (C2 x C2) : C9          1
+  (C2 x C2) : C9          1
+  (C2 x C2) : C9          1
+  (C2 x C2) : (C9 : C3)   1

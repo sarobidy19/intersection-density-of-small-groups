@@ -8,7 +8,7 @@ $$ \sigma(G) =\\{ \rho(G,H): H\leq G \\}.$$
 
 The aim of this project is to the find the intersection sepectrum of small groups. Computations were done with **Sagemath**. The results are given in
 
-* [1-100](/1-100/all-files-order-1-100.md)
+* [1-100](/1-100/1-100.md)
 * [101-200](/201-300/all.md) (non-abelian, <=100 groups for a given order)
 
 Each line of the output looks as follows

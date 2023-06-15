@@ -1,0 +1,13 @@
+group_id: [105,1]
+
+Description: C5 x (C7 : C3)
+
+   Subgroups        rho
+  1                1
+  C3               1
+  C5               1
+  C7               1
+  C15              1
+  C7 : C3          1
+  C35              1
+  C5 x (C7 : C3)   1

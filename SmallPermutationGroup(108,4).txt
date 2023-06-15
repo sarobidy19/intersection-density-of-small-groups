@@ -1,0 +1,25 @@
+group_id: [108,4]
+
+Description: D54
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C3          1
+  C2 x C2     1
+  C6          1
+  S3          1
+  S3          1
+  C9          1
+  D6          1
+  C18         1
+  D9          1
+  D9          1
+  C27         1
+  D18         1
+  C54         1
+  D27         1
+  D27         1
+  D54         1
