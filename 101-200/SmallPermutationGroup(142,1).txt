@@ -1,0 +1,9 @@
+group_id: [142,1]
+
+Description: D71
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C71         1
+  D71         1

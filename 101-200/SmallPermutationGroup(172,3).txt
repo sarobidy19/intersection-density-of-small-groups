@@ -1,0 +1,15 @@
+group_id: [172,3]
+
+Description: D86
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C43         1
+  C86         1
+  D43         1
+  D43         1
+  D86         1

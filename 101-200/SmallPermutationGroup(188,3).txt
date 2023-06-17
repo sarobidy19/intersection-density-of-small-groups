@@ -1,0 +1,15 @@
+group_id: [188,3]
+
+Description: D94
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C47         1
+  C94         1
+  D47         1
+  D47         1
+  D94         1

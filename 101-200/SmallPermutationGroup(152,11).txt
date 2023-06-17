@@ -1,0 +1,37 @@
+group_id: [152,11]
+
+Description: C2 x C2 x D19
+
+   Subgroups       rho
+  1               1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2 x C2    1
+  C19             1
+  C38             1
+  C38             1
+  C38             1
+  D19             1
+  D19             1
+  D19             1
+  D19             1
+  D38             1
+  C38 x C2        1
+  D38             1
+  D38             1
+  D38             1
+  D38             1
+  D38             1
+  C2 x C2 x D19   1

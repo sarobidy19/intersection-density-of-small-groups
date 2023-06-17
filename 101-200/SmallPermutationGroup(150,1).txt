@@ -1,0 +1,17 @@
+group_id: [150,1]
+
+Description: C25 x S3
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C5          1
+  S3          1
+  C10         1
+  C15         1
+  C25         1
+  C5 x S3     1
+  C50         1
+  C75         1
+  C25 x S3    1

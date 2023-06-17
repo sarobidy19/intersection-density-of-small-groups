@@ -1,0 +1,13 @@
+group_id: [186,2]
+
+Description: C2 x (C31 : C3)
+
+   Subgroups         rho
+  1                 1
+  C2                1
+  C3                1
+  C6                1
+  C31               1
+  C62               1
+  C31 : C3          1
+  C2 x (C31 : C3)   1

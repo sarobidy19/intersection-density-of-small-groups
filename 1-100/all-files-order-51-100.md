@@ -145,43 +145,38 @@
 |80|3|C5 : C16|{1}|[details](SmallPermutationGroup(80,3).txt)|
 |80|4|C8 x D5|{1}|[details](SmallPermutationGroup(80,4).txt)|
 |80|5|C40 : C2|{1}|[details](SmallPermutationGroup(80,5).txt)|
-|80|6|C40 : C2|{1}|[details](SmallPermutationGroup(80,6).txt)|
-|80|7|D40|{1}|[details](SmallPermutationGroup(80,7).txt)|
-|80|8|C5 : Q16|{1}|[details](SmallPermutationGroup(80,8).txt)|
-|80|9|C2 x (C5 : C8)|{1}|[details](SmallPermutationGroup(80,9).txt)|
-|80|10|(C5 : C8) : C2|{1}|[details](SmallPermutationGroup(80,10).txt)|
-|80|11|C4 x (C5 : C4)|{1}|[details](SmallPermutationGroup(80,11).txt)|
-|80|12|(C5 : C4) : C4|{1}|[details](SmallPermutationGroup(80,12).txt)|
-|80|13|C20 : C4|{1}|[details](SmallPermutationGroup(80,13).txt)|
-|80|14|(C20 x C2) : C2|{1}|[details](SmallPermutationGroup(80,14).txt)|
-|80|15|(C5 x D4) : C2|{1}|[details](SmallPermutationGroup(80,15).txt)|
-|80|16|(C5 : Q8) : C2|{1}|[details](SmallPermutationGroup(80,16).txt)|
-|80|17|(C5 x Q8) : C2|{1}|[details](SmallPermutationGroup(80,17).txt)|
-|80|18|C5 : Q16|{1}|[details](SmallPermutationGroup(80,18).txt)|
-|80|19|(C10 x C2) : C4|{1}|[details](SmallPermutationGroup(80,19).txt)|
-|80|20|C20 x C4||Abelian|
-|80|21|C5 x ((C4 x C2) : C2)|{1}|[details](SmallPermutationGroup(80,21).txt)|
-|80|22|C5 x (C4 : C4)|{1}|[details](SmallPermutationGroup(80,22).txt)|
-|80|23|C40 x C2||Abelian|
-|80|24|C5 x (C8 : C2)|{1}|[details](SmallPermutationGroup(80,24).txt)|
-|80|25|C5 x D8|{1}|[details](SmallPermutationGroup(80,25).txt)|
-|80|26|C5 x QD16|{1}|[details](SmallPermutationGroup(80,26).txt)|
-|80|27|C5 x Q16|{1}|[details](SmallPermutationGroup(80,27).txt)|
-|80|28|C5 : (C8 x C2)|{1}|[details](SmallPermutationGroup(80,28).txt)|
-|80|29|(C5 : C8) : C2|{1}|[details](SmallPermutationGroup(80,29).txt)|
-|80|30|C4 x (C5 : C4)|{1}|[details](SmallPermutationGroup(80,30).txt)|
-|80|31|C20 : C4|{1}|[details](SmallPermutationGroup(80,31).txt)|
-|80|32|C2 x (C5 : C8)|{1}|[details](SmallPermutationGroup(80,32).txt)|
-|80|33|(C5 : C8) : C2|{1}|[details](SmallPermutationGroup(80,33).txt)|
-|80|34|(C10 x C2) : C4|{1}|[details](SmallPermutationGroup(80,34).txt)|
-|80|35|C2 x (C5 : Q8)|{1}|[details](SmallPermutationGroup(80,35).txt)|
-|80|36|C2 x C4 x D5|{1}|[details](SmallPermutationGroup(80,36).txt)|
-|80|37|C2 x D20|{1}|[details](SmallPermutationGroup(80,37).txt)|
-|80|38|(C20 x C2) : C2|{1}|[details](SmallPermutationGroup(80,38).txt)|
-|80|39|D4 x D5|{1}|[details](SmallPermutationGroup(80,39).txt)|
-|80|40|(C4 x D5) : C2|{1}|[details](SmallPermutationGroup(80,40).txt)|
-|80|41|Q8 x D5|{1}|[details](SmallPermutationGroup(80,41).txt)|
-|80|42|(C4 x D5) : C2|{1}|[details](SmallPermutationGroup(80,42).txt)|
+|80|6|C40 : C2|{1}|[details](SmallPermuta{1}|[details](SmallPermutationGroup(64,69).txt)|
+|64|70|(C4 : C4) : C4|{1}|[details](SmallPermutationGroup(64,70).txt)|
+|64|71|(C2 x (C4 : C4)) : C2|{1}|[details](SmallPermutationGroup(64,71).txt)|
+|64|72|(C2 x Q8) : C4|{1}|[details](SmallPermutationGroup(64,72).txt)|
+|64|73|(C2 x C2 x D4) : C2|{1}|[details](SmallPermutationGroup(64,73).txt)|
+|64|74|(C2 x C2 x Q8) : C2|{1}|[details](SmallPermutationGroup(64,74).txt)|
+|64|75|(C2 x ((C4 x C2) : C2)) : C2|{1}|[details](SmallPermutationGroup(64,75).txt)|
+|64|76|(C4 x C2) : Q8|{1}|[details](SmallPermutationGroup(64,76).txt)|
+|64|77|(C2 x (C4 : C4)) : C2|{1}|[details](SmallPermutationGroup(64,77).txt)|
+|64|78|(C2 x (C4 : C4)) : C2|{1}|[details](SmallPermutationGroup(64,78).txt)|
+|64|79|(C2 x C2 x C2) . (C2 x C2 x C2)|{1}|[details](SmallPermutationGroup(64,79).txt)|
+|64|80|(C2 x (C4 : C4)) : C2|{1}|[details](SmallPermutationGroup(64,80).txt)|
+|64|81|(C2 x C2 x C2) . (C2 x C2 x C2)|{1}|[details](SmallPermutationGroup(64,81).txt)|
+|64|82|(C2 x C2 x C2) . (C2 x C2 x C2)|{1}|[details](SmallPermutationGroup(64,82).txt)|
+|64|83|C8 x C4 x C2||Abelian|
+|64|84|C2 x (C8 : C4)|{1}|[details](SmallPermutationGroup(64,84).txt)|
+|64|85|C4 x (C8 : C2)|{1}|[details](SmallPermutationGroup(64,85).txt)|
+|64|86|(C8 x C4) : C2|{1}|[details](SmallPermutationGroup(64,86).txt)|
+|64|87|C2 x ((C8 x C2) : C2)|{1}|[details](SmallPermutationGroup(64,87).txt)|
+|64|88|(C2 x (C8 : C2)) : C2|{1}|[details](SmallPermutationGroup(64,88).txt)|
+|64|89|(C8 x C2 x C2) : C2|{1}|[details](SmallPermutationGroup(64,89).txt)|
+|64|90|C2 x ((C2 x C2 x C2) : C4)|{1}|[details](SmallPermutationGroup(64,90).txt)|
+|64|91|((C4 x C4) : C2) : C2|{1}|[details](SmallPermutationGroup(64,91).txt)|
+|64|92|C2 x ((C8 : C2) : C2)|{1}|[details](SmallPermutationGroup(64,92).txt)|
+|64|93|C2 x (C2 . ((C4 x C2) : C2) = (C2 x C2) . (C4 x C2))|{1}|[details](SmallPermutationGroup(64,93).txt)|
+|64|94|(C2 x (C8 : C2)) : C2|{1}|[details](SmallPermutationGroup(64,94).txt)|
+|64|95|C2 x ((C8 x C2) : C2)|{1}|[details](SmallPermutationGroup(64,95).txt)|
+|64|96|C2 x (Q8 : C4)|{1}|[details](SmallPermutationGroup(64,96).txt)|
+|64|97|((C4 x C4) : C2) : C2|{1}|[details](SmallPermutationGroup(64,97).txt)|
+|64|98|(C2 x (C4 : C4)) : C2|{1}|[details](SmallPermutationGroup(64,98).txt)|
+|64|99|((C4 x C4) : C2) : C2|{1}|[details](SmallPermutationGroup(64,99).txt)|
+ D5) : C2|{1}|[details](SmallPermutationGroup(80,42).txt)|
 |80|43|C2 x C2 x (C5 : C4)|{1}|[details](SmallPermutationGroup(80,43).txt)|
 |80|44|C2 x ((C10 x C2) : C2)|{1}|[details](SmallPermutationGroup(80,44).txt)|
 |80|45|C20 x C2 x C2||Abelian|

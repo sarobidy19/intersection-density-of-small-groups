@@ -1,0 +1,17 @@
+group_id: [156,1]
+
+Description: C13 : C12
+
+   Subgroups         rho
+  1                 1
+  C2                1
+  C3                1
+  C4                1
+  C6                1
+  C12               1
+  C13               1
+  C26               1
+  C13 : C3          1
+  C13 : C4          1
+  C2 x (C13 : C3)   1
+  C13 : C12         1

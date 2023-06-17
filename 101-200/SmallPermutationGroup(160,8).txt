@@ -1,0 +1,29 @@
+group_id: [160,8]
+
+Description: C5 : Q32
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C4          1
+  C4          1
+  C4          1
+  C5          1
+  Q8          1
+  C8          1
+  Q8          1
+  C10         1
+  Q16         1
+  C16         1
+  Q16         1
+  C20         1
+  C5 : C4     1
+  C5 : C4     1
+  Q32         1
+  C5 : Q8     1
+  C40         1
+  C5 : Q8     1
+  C5 : Q16    1
+  C80         1
+  C5 : Q16    1
+  C5 : Q32    1

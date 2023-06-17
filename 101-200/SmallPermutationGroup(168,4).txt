@@ -1,0 +1,21 @@
+group_id: [168,4]
+
+Description: C3 x (C7 : C8)
+
+   Subgroups        rho
+  1                1
+  C2               1
+  C3               1
+  C4               1
+  C6               1
+  C7               1
+  C8               1
+  C12              1
+  C14              1
+  C21              1
+  C24              1
+  C28              1
+  C42              1
+  C7 : C8          1
+  C84              1
+  C3 x (C7 : C8)   1

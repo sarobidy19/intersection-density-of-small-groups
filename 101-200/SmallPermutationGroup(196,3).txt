@@ -1,0 +1,20 @@
+group_id: [196,3]
+
+Description: D98
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C7          1
+  C14         1
+  D7          1
+  D7          1
+  D14         1
+  C49         1
+  C98         1
+  D49         1
+  D49         1
+  D98         1

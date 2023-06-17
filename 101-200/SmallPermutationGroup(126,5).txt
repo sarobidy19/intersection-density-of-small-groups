@@ -1,0 +1,17 @@
+group_id: [126,5]
+
+Description: D63
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  S3          1
+  C7          1
+  C9          1
+  D7          1
+  D9          1
+  C21         1
+  D21         1
+  C63         1
+  D63         1

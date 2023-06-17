@@ -1,0 +1,31 @@
+group_id: [196,9]
+
+Description: D7 x D7
+
+   Subgroups        rho
+  1                1
+  C2               1
+  C2               1
+  C2               1
+  C2 x C2          1
+  C7               1
+  C7               1
+  C7               1
+  C7               1
+  C7               1
+  C14              1
+  D7               1
+  D7               1
+  C14              1
+  D7               1
+  D7               1
+  D7               1
+  D7               1
+  D7               1
+  D14              1
+  D14              1
+  C7 x C7          1
+  C7 x D7          1
+  C7 x D7          1
+  (C7 x C7) : C2   1
+  D7 x D7          1

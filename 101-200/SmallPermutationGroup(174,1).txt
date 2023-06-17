@@ -1,0 +1,13 @@
+group_id: [174,1]
+
+Description: C29 x S3
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  S3          1
+  C29         1
+  C58         1
+  C87         1
+  C29 x S3    1

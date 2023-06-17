@@ -1,0 +1,13 @@
+group_id: [110,2]
+
+Description: C2 x (C11 : C5)
+
+   Subgroups         rho
+  1                 1
+  C2                1
+  C5                1
+  C10               1
+  C11               1
+  C22               1
+  C11 : C5          1
+  C2 x (C11 : C5)   1

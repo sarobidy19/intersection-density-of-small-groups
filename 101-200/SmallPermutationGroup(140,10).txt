@@ -1,0 +1,25 @@
+group_id: [140,10]
+
+Description: D70
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C2 x C2     1
+  C5          1
+  C7          1
+  C10         1
+  D5          1
+  D5          1
+  C14         1
+  D7          1
+  D7          1
+  D10         1
+  D14         1
+  C35         1
+  C70         1
+  D35         1
+  D35         1
+  D70         1

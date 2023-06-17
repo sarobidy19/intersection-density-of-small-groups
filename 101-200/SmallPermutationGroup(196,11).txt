@@ -1,0 +1,55 @@
+group_id: [196,11]
+
+Description: C2 x ((C7 x C7) : C2)
+
+   Subgroups               rho
+  1                       1
+  C2                      1
+  C2                      1
+  C2                      1
+  C2 x C2                 1
+  C7                      1
+  C7                      1
+  C7                      1
+  C7                      1
+  C7                      1
+  C7                      1
+  C7                      1
+  C7                      1
+  D7                      1
+  D7                      1
+  D7                      1
+  D7                      1
+  D7                      1
+  D7                      1
+  D7                      1
+  D7                      1
+  D7                      1
+  C14                     1
+  C14                     1
+  D7                      1
+  D7                      1
+  D7                      1
+  D7                      1
+  C14                     1
+  C14                     1
+  D7                      1
+  C14                     1
+  C14                     1
+  C14                     1
+  C14                     1
+  D7                      1
+  D7                      1
+  D14                     1
+  D14                     1
+  D14                     1
+  D14                     1
+  D14                     1
+  D14                     1
+  D14                     1
+  D14                     1
+  C7 x C7                 1
+  (C7 x C7) : C2          1
+  C14 x C7                1
+  (C7 x C7) : C2          1
+  C2 x ((C7 x C7) : C2)   1

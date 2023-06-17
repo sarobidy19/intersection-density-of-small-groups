@@ -1,0 +1,13 @@
+group_id: [138,1]
+
+Description: C23 x S3
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  S3          1
+  C23         1
+  C46         1
+  C69         1
+  C23 x S3    1

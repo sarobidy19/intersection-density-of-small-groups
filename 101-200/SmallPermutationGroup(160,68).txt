@@ -1,0 +1,41 @@
+group_id: [160,68]
+
+Description: C5 : (C8 : C4)
+
+   Subgroups        rho
+  1                1
+  C2               1
+  C2               1
+  C2               1
+  C4               1
+  C4               1
+  C4               1
+  C4               1
+  C2 x C2          1
+  C5               1
+  C8               1
+  C4 x C2          1
+  C8               1
+  C4 x C2          1
+  C4 x C2          1
+  D5               1
+  C10              1
+  D5               1
+  C4 : C4          1
+  C8 x C2          1
+  C4 : C4          1
+  C5 : C4          1
+  C5 : C4          1
+  C20              1
+  D10              1
+  C5 : C4          1
+  C8 : C4          1
+  C2 x (C5 : C4)   1
+  C40              1
+  C4 x D5          1
+  C5 : C8          1
+  C2 x (C5 : C4)   1
+  C8 x D5          1
+  C20 : C4         1
+  C20 : C4         1
+  C5 : (C8 : C4)   1

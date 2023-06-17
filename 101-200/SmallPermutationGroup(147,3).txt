@@ -1,0 +1,15 @@
+group_id: [147,3]
+
+Description: C7 x (C7 : C3)
+
+   Subgroups        rho
+  1                1
+  C3               1
+  C7               1
+  C7               1
+  C7               1
+  C7               1
+  C7 : C3          1
+  C21              1
+  C7 x C7          1
+  C7 x (C7 : C3)   1

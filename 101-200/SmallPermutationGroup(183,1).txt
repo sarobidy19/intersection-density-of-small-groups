@@ -1,0 +1,9 @@
+group_id: [183,1]
+
+Description: C61 : C3
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C61         1
+  C61 : C3    1

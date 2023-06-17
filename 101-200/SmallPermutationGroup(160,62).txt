@@ -1,0 +1,31 @@
+group_id: [160,62]
+
+Description: C5 x QD32
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C4          1
+  C4          1
+  C2 x C2     1
+  C5          1
+  Q8          1
+  C8          1
+  D4          1
+  C10         1
+  C10         1
+  Q16         1
+  D8          1
+  C16         1
+  C10 x C2    1
+  C20         1
+  C20         1
+  QD32        1
+  C5 x D4     1
+  C5 x Q8     1
+  C40         1
+  C5 x D8     1
+  C80         1
+  C5 x Q16    1
+  C5 x QD32   1

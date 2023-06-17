@@ -1,0 +1,13 @@
+group_id: [186,5]
+
+Description: D93
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  S3          1
+  C31         1
+  D31         1
+  C93         1
+  D93         1

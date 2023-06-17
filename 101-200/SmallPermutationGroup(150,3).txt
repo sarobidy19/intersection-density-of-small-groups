@@ -1,0 +1,17 @@
+group_id: [150,3]
+
+Description: D75
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C5          1
+  S3          1
+  D5          1
+  C15         1
+  C25         1
+  D15         1
+  D25         1
+  C75         1
+  D75         1

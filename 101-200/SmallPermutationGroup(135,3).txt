@@ -1,0 +1,27 @@
+group_id: [135,3]
+
+Description: C5 x ((C3 x C3) : C3)
+
+   Subgroups               rho
+  1                       1
+  C3                      1
+  C3                      1
+  C3                      1
+  C3                      1
+  C3                      1
+  C5                      1
+  C3 x C3                 1
+  C3 x C3                 1
+  C3 x C3                 1
+  C3 x C3                 1
+  C15                     1
+  C15                     1
+  C15                     1
+  C15                     1
+  C15                     1
+  (C3 x C3) : C3          1
+  C15 x C3                1
+  C15 x C3                1
+  C15 x C3                1
+  C15 x C3                1
+  C5 x ((C3 x C3) : C3)   1

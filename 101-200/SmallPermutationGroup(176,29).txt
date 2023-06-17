@@ -1,0 +1,59 @@
+group_id: [176,29]
+
+Description: C2 x D44
+
+   Subgroups       rho
+  1               1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C2              1
+  C4              1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C2 x C2         1
+  C4              1
+  C2 x C2         1
+  C2 x C2 x C2    1
+  D4              1
+  D4              1
+  D4              1
+  D4              1
+  C4 x C2         1
+  C2 x C2 x C2    1
+  C11             1
+  C2 x D4         1
+  D11             1
+  D11             1
+  D11             1
+  C22             1
+  C22             1
+  C22             1
+  D11             1
+  D22             1
+  D22             1
+  D22             1
+  D22             1
+  C22 x C2        1
+  D22             1
+  D22             1
+  D22             1
+  C44             1
+  D22             1
+  C44             1
+  C44 x C2        1
+  C2 x C2 x D11   1
+  D44             1
+  D44             1
+  C2 x C2 x D11   1
+  D44             1
+  D44             1
+  C2 x D44        1

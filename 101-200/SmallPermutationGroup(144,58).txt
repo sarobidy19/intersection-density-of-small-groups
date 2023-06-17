@@ -1,0 +1,49 @@
+group_id: [144,58]
+
+Description: (C3 x C3) : QD16
+
+   Subgroups          rho
+  1                  1
+  C2                 1
+  C2                 1
+  C3                 1
+  C3                 1
+  C3                 1
+  C2 x C2            1
+  C4                 1
+  C4                 1
+  C6                 1
+  S3                 1
+  C6                 1
+  C6                 1
+  C6                 1
+  Q8                 1
+  D4                 1
+  C8                 1
+  C3 x C3            1
+  D6                 1
+  C12                1
+  C12                1
+  C3 : C4            1
+  C6 x C2            1
+  C12                1
+  C12                1
+  QD16               1
+  C6 x C3            1
+  C3 x S3            1
+  D12                1
+  C3 : Q8            1
+  C3 : C8            1
+  C3 : C8            1
+  C3 x D4            1
+  C3 x Q8            1
+  C3 : C8            1
+  C12 x C3           1
+  C3 x (C3 : C4)     1
+  C6 x S3            1
+  (C3 : Q8) : C2     1
+  (C3 x Q8) : C2     1
+  C3 x D12           1
+  C3 x (C3 : Q8)     1
+  (C3 x C3) : C8     1
+  (C3 x C3) : QD16   1

@@ -1,0 +1,23 @@
+group_id: [126,12]
+
+Description: C21 x S3
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C3          1
+  C3          1
+  C3          1
+  S3          1
+  C6          1
+  C7          1
+  C3 x C3     1
+  C14         1
+  C3 x S3     1
+  C21         1
+  C21         1
+  C21         1
+  C42         1
+  C7 x S3     1
+  C21 x C3    1
+  C21 x S3    1

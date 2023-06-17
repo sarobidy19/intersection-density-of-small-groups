@@ -1,0 +1,83 @@
+group_id: [144,94]
+
+Description: (C3 x C3) : (C4 : C4)
+
+   Subgroups               rho
+  1                       1
+  C2                      1
+  C2                      1
+  C2                      1
+  C3                      1
+  C3                      1
+  C3                      1
+  C3                      1
+  C4                      1
+  C4                      1
+  C4                      1
+  C4                      1
+  C2 x C2                 1
+  C6                      1
+  C6                      1
+  C6                      1
+  C6                      1
+  C6                      1
+  C6                      1
+  C6                      1
+  C6                      1
+  C6                      1
+  C6                      1
+  C6                      1
+  C6                      1
+  C4 x C2                 1
+  C4 x C2                 1
+  C4 x C2                 1
+  C3 x C3                 1
+  C6 x C2                 1
+  C3 : C4                 1
+  C6 x C2                 1
+  C3 : C4                 1
+  C3 : C4                 1
+  C6 x C2                 1
+  C12                     1
+  C3 : C4                 1
+  C6 x C2                 1
+  C12                     1
+  C12                     1
+  C12                     1
+  C3 : C4                 1
+  C3 : C4                 1
+  C3 : C4                 1
+  C3 : C4                 1
+  C12                     1
+  C12                     1
+  C12                     1
+  C12                     1
+  C4 : C4                 1
+  C6 x C3                 1
+  C6 x C3                 1
+  C6 x C3                 1
+  C12 x C2                1
+  C12 x C2                1
+  C2 x (C3 : C4)          1
+  C2 x (C3 : C4)          1
+  C12 x C2                1
+  C2 x (C3 : C4)          1
+  C2 x (C3 : C4)          1
+  C2 x (C3 : C4)          1
+  C2 x (C3 : C4)          1
+  C12 x C2                1
+  C2 x (C3 : C4)          1
+  C2 x (C3 : C4)          1
+  C12 x C3                1
+  C12 x C3                1
+  (C3 x C3) : C4          1
+  C6 x C6                 1
+  (C3 x C3) : C4          1
+  C12 : C4                1
+  C12 : C4                1
+  C12 : C4                1
+  C12 : C4                1
+  C12 x C6                1
+  C2 x ((C3 x C3) : C4)   1
+  C2 x ((C3 x C3) : C4)   1
+  (C3 x C3) : (C4 : C4)   1

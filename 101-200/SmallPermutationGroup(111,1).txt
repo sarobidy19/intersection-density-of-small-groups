@@ -1,0 +1,9 @@
+group_id: [111,1]
+
+Description: C37 : C3
+
+   Subgroups   rho
+  1           1
+  C3          1
+  C37         1
+  C37 : C3    1

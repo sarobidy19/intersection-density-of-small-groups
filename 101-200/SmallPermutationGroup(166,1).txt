@@ -1,0 +1,9 @@
+group_id: [166,1]
+
+Description: D83
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C83         1
+  D83         1

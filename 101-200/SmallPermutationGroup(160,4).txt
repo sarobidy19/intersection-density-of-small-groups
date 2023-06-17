@@ -1,0 +1,33 @@
+group_id: [160,4]
+
+Description: C16 x D5
+
+   Subgroups   rho
+  1           1
+  C2          1
+  C2          1
+  C2          1
+  C4          1
+  C4          1
+  C2 x C2     1
+  C5          1
+  C4 x C2     1
+  C8          1
+  C8          1
+  D5          1
+  C10         1
+  D5          1
+  C8 x C2     1
+  C16         1
+  C16         1
+  D10         1
+  C20         1
+  C5 : C4     1
+  C16 x C2    1
+  C4 x D5     1
+  C40         1
+  C5 : C8     1
+  C8 x D5     1
+  C80         1
+  C5 : C16    1
+  C16 x D5    1

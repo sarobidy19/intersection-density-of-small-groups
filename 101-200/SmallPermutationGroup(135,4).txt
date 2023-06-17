@@ -1,0 +1,21 @@
+group_id: [135,4]
+
+Description: C5 x (C9 : C3)
+
+   Subgroups        rho
+  1                1
+  C3               1
+  C3               1
+  C5               1
+  C9               1
+  C3 x C3          1
+  C9               1
+  C9               1
+  C15              1
+  C15              1
+  C9 : C3          1
+  C45              1
+  C15 x C3         1
+  C45              1
+  C45              1
+  C5 x (C9 : C3)   1

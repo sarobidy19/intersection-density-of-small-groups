@@ -1,0 +1,25 @@
+group_id: [176,5]
+
+Description: C11 : QD16
+
+   Subgroups    rho
+  1            1
+  C2           1
+  C2           1
+  C2 x C2      1
+  C4           1
+  C4           1
+  D4           1
+  C8           1
+  Q8           1
+  C11          1
+  QD16         1
+  C22          1
+  D11          1
+  D22          1
+  C44          1
+  C11 : C4     1
+  D44          1
+  C88          1
+  C11 : Q8     1
+  C11 : QD16   1

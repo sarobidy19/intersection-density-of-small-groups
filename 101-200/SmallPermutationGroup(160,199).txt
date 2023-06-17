@@ -1,0 +1,25 @@
+group_id: [160,199]
+
+Description: ((C2 x Q8) : C2) : C5
+
+   Subgroups               rho
+  1                       1
+  C2                      1
+  C2                      1
+  C4                      1
+  C2 x C2                 1
+  C4                      1
+  C5                      1
+  C4 x C2                 5/4
+  Q8                      5/4
+  D4                      5/4
+  C4 x C2                 4
+  D4                      5/4
+  Q8                      5/4
+  C4 x C2                 5/4
+  C10                     1
+  (C4 x C2) : C2          2
+  C2 x Q8                 2
+  (C4 x C2) : C2          2
+  (C2 x Q8) : C2          1
+  ((C2 x Q8) : C2) : C5   1

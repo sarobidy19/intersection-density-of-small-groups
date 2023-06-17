@@ -1,0 +1,9 @@
+group_id: [155,1]
+
+Description: C31 : C5
+
+   Subgroups   rho
+  1           1
+  C5          1
+  C31         1
+  C31 : C5    1

@@ -1,0 +1,13 @@
+group_id: [165,1]
+
+Description: C3 x (C11 : C5)
+
+   Subgroups         rho
+  1                 1
+  C3                1
+  C5                1
+  C11               1
+  C15               1
+  C33               1
+  C11 : C5          1
+  C3 x (C11 : C5)   1

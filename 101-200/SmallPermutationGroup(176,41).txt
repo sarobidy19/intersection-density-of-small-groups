@@ -1,0 +1,139 @@
+group_id: [176,41]
+
+Description: C2 x C2 x C2 x D11
+
+   Subgroups            rho
+  1                    1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2                   1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2              1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C2 x C2 x C2         1
+  C11                  1
+  C2 x C2 x C2 x C2    1
+  C22                  1
+  D11                  1
+  D11                  1
+  C22                  1
+  C22                  1
+  D11                  1
+  C22                  1
+  D11                  1
+  C22                  1
+  D11                  1
+  D11                  1
+  D11                  1
+  C22                  1
+  D11                  1
+  C22                  1
+  C22 x C2             1
+  D22                  1
+  D22                  1
+  C22 x C2             1
+  D22                  1
+  D22                  1
+  D22                  1
+  C22 x C2             1
+  D22                  1
+  D22                  1
+  C22 x C2             1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  C22 x C2             1
+  C22 x C2             1
+  D22                  1
+  D22                  1
+  C22 x C2             1
+  D22                  1
+  D22                  1
+  D22                  1
+  D22                  1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C22 x C2 x C2        1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C2 x C2 x D11        1
+  C2 x C2 x C2 x D11   1
